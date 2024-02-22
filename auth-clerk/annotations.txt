@@ -1,0 +1,4 @@
+o middleware é uma ponta que intercepta todas as paginas antes de serem mostradas
+
+
+[[ ...sign-in ]] - modo que o Next sabe que ali se trata de qualquer rota que vem depois de /sign-in
